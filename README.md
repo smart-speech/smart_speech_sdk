@@ -15,7 +15,7 @@
 * Android API Level >=19 （Android 4.4及以上）
 * iOS 12 及以上版本
 
-**授权账号：**
+**授权账号（需要商务提供）：**
 
 * appId
 * appSecret
